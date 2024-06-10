@@ -1,1 +1,3 @@
 # TextClassification
+
+This analysis attempts to help a school measure young kids' motor skills by introducing handwriting examinations. We want to build prediction models capable of properly detecting handwritten numbers using machine learning approaches such as K-Nearest Neighbors (KNN) and neural networks. The major goal is to provide insights into the effectiveness of each technique and to select a model that is appropriate for the school's needs based on comparative analysis. Through this attempt, the school intends to identify students who may require further assistance with motor skill development, allowing for focused interventions to enhance their educational path.
